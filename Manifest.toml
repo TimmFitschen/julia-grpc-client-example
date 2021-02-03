@@ -30,9 +30,9 @@ version = "0.2.0"
 
 [[HTTP2]]
 deps = ["HPack", "HttpCommon"]
-git-tree-sha1 = "c60c11ef7164601ee10101ca054b62924dfa2e23"
+git-tree-sha1 = "45cb4622de9e172d89c2ee8473ba688d3d70933c"
 repo-rev = "master"
-repo-url = "https://github.com/2HgO/HTTP2.jl"
+repo-url = "https://github.com/TimmFitschen/HTTP2.jl.git"
 uuid = "d274f558-d366-508a-a164-2611506323a4"
 version = "0.0.0"
 
