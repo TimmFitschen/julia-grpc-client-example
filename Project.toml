@@ -1,0 +1,10 @@
+name = "grpc_julia"
+uuid = "d657cb60-afbe-4f4a-a1bb-c8723ed6f363"
+authors = ["tf "]
+version = "0.1.0"
+
+[deps]
+HPack = "ac4eac4a-97af-5557-9a41-b7bc20405a4a"
+HTTP2 = "d274f558-d366-508a-a164-2611506323a4"
+ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
+gRPC = "3e4ca577-bc38-5376-a83e-2198118cd55e"
